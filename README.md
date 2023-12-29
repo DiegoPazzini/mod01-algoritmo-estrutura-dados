@@ -1,6 +1,6 @@
 # Projeto: Estruturas de Dados em Java
 
-1. Pacote: com.diego.estruturadados.base
+Pacote: com.diego.estruturadados.base
 Base<T> Class:
 Objetivo: Fornecer uma base genérica para estruturas de dados.
 Detalhes:
@@ -8,7 +8,7 @@ Utiliza um array genérico para armazenar elementos.
 Implementa métodos básicos como adiciona, adiciona(posicao, elemento), remover(posicao).
 Métodos adicionais incluem isEmpty, size, e toString.
 
-2. Pacote: com.diego.estruturadados.fila
+Pacote: com.diego.estruturadados.fila
 Fila<T> Class:
 
 Objetivo: Implementar uma fila usando a classe Base.
@@ -22,7 +22,7 @@ Detalhes:
 Cria uma instância de Fila.
 Adiciona elementos, verifica se está vazia, obtém tamanho e elementos, remove elementos e exibe a fila.
 
-3. Pacote: com.diego.estruturadados.lista
+Pacote: com.diego.estruturadados.lista
 Node<T> Class:
 
 Objetivo: Representar um nó em uma lista encadeada.
@@ -40,7 +40,7 @@ Detalhes:
 Cria uma instância de Lista.
 Adiciona, insere, remove elementos, verifica tamanho e exibe a lista.
 
-4. Pacote: com.diego.estruturadados.pilha
+Pacote: com.diego.estruturadados.pilha
 Pilha<T> Class:
 
 Objetivo: Implementar uma pilha usando a classe Base.
