@@ -7,6 +7,7 @@ Detalhes:
 Utiliza um array genérico para armazenar elementos.
 Implementa métodos básicos como adiciona, adiciona(posicao, elemento), remover(posicao).
 Métodos adicionais incluem isEmpty, size, e toString.
+
 2. Pacote: com.diego.estruturadados.fila
 Fila<T> Class:
 
@@ -20,6 +21,7 @@ Objetivo: Testar a funcionalidade da classe Fila.
 Detalhes:
 Cria uma instância de Fila.
 Adiciona elementos, verifica se está vazia, obtém tamanho e elementos, remove elementos e exibe a fila.
+
 3. Pacote: com.diego.estruturadados.lista
 Node<T> Class:
 
@@ -37,6 +39,7 @@ Objetivo: Testar a funcionalidade da classe Lista.
 Detalhes:
 Cria uma instância de Lista.
 Adiciona, insere, remove elementos, verifica tamanho e exibe a lista.
+
 4. Pacote: com.diego.estruturadados.pilha
 Pilha<T> Class:
 
